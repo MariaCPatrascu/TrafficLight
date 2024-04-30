@@ -1,7 +1,6 @@
 package app.trafficlight.di
 
 import app.trafficlight.driving.DrivingActivity
-import app.trafficlight.driving.DrivingViewModel
 import app.trafficlight.traffic.light.TrafficLightActivity
 import dagger.Binds
 import dagger.Module
